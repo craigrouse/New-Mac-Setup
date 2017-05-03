@@ -3,33 +3,32 @@ Installs homebrew then cycles through and installs all required applications
 
 Currently installs the following:
 
-Git
-Github Desktop
-NodeJS
-Google Chrome
-Firefox
-Slack
-echo "Installing 1Password"
-brew cask install 1password
-Harvest
-Charles Proxy
-Jing
-Google Drive
-GoTo Meeting
-Cyberduck
-Spectacle
-Clipy
-VirtualBox
-VirtualBox Extension Pack
-Github Desktop
-Alfred
-Skype
+Git<br />
+Github Desktop<br />
+NodeJS<br />
+Google Chrome<br />
+Firefox<br />
+Slack<br />
+Installing 1Password<br />
+Harvest<br />
+Charles Proxy<br />
+Jing<br />
+Google Drive<br />
+GoTo Meeting<br />
+Cyberduck<br />
+Spectacle<br />
+Clipy<br />
+VirtualBox<br />
+VirtualBox Extension Pack<br />
+Github Desktop<br />
+Alfred<br />
+Skype<br />
 
 With the option to install one of the following IDEs:
 
-Atom
-Brackets
-Sublime Text
-Visual Studio
-Netbeans
-WebStorms
+Atom<br />
+Brackets<br />
+Sublime Text<br />
+Visual Studio<br />
+Netbeans<br />
+WebStorms<br />
