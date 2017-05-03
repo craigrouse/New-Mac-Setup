@@ -69,11 +69,12 @@ echo ""
 echo ""
 
 echo "Which IDE would you like to install?"
-select option in "Atom" "Brackets" "Visual Studio" "Netbeans" "Webstorm" "I'll install my own"
+select option in "Atom" "Brackets" "Sublime Text" "Visual Studio" "Netbeans" "Webstorm" "I'll install my own"
 do
   case $option in
           Atom)echo "Installing $option" && brew cask install atom && break;;
           Brackets)echo "Installing $option" &&brew cask install brackets  && break;;
+          "Sublime Text")echo "Installing $option" &&brew cask install sublime-text  && break;;
           "Visual Studio")echo "Installing $option" && brew cask install visual-studio-code  && break;;
           Netbeans)echo "Installing $option" && brew cask install netbeans && break;;
           Webstorm)echo "Installing $option" && brew cask install webstorm && break;;
